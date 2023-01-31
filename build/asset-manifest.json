@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MovieWatcher/static/css/main.c0f40477.css",
+    "main.js": "/MovieWatcher/static/js/main.dcc846f3.js",
+    "index.html": "/MovieWatcher/index.html",
+    "main.c0f40477.css.map": "/MovieWatcher/static/css/main.c0f40477.css.map",
+    "main.dcc846f3.js.map": "/MovieWatcher/static/js/main.dcc846f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f40477.css",
+    "static/js/main.dcc846f3.js"
+  ]
+}
