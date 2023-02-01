@@ -6,7 +6,7 @@ export const Header = () => {
   return (
     <div className="header">
       <div className="headerLeft">
-        <Link to="/">
+        <Link to="/movieWatcher">
           <img
             className="header__icon"
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCUIp-dmpr6pe_vIWfQeMv6Dlhhr9LNX_kpgsXjzYiz4Mhf3rH00q7HYFa5uXd87AmtvA&usqp=CAU"

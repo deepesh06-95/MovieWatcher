@@ -11,7 +11,7 @@ function App() {
       <Router>
         <Header />
         <Routes>
-          <Route index element={<Home />}></Route>
+          <Route path="movieWatcher" element={<Home />}></Route>
           <Route path="movie/:id" element={<Movie />}></Route>
           <Route path="movies/:type" element={<MovieList />}></Route>
           <Route
@@ -30,7 +30,7 @@ function App() {
               >
                 Page Not Found{" "}
                 <Link
-                  to="/"
+                  to="/movieWatcher"
                   style={{ textDecoration: "underline", color: "red" }}
                 >
                   Click here
